@@ -1,0 +1,18 @@
+# Site settings
+title: johnny five is AlaIve
+email: jimparr19@gmail.com
+description: "Jim AI Blog"
+logo_location: "http://ih0.redbubble.net/image.31027873.0566/fc,220x200,silver.u4.jpg"
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: pygments
+
+#Other Global Configuration
+exclude: ['README.md']
